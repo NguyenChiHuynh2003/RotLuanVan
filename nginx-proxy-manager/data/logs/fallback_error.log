@@ -1,0 +1,1 @@
+2025/06/15 13:13:57 [error] 179#179: *63 open() "/var/www/html/ipv6check" failed (2: No such file or directory), client: 172.18.0.1, server: localhost-nginx-proxy-manager, request: "GET /ipv6check HTTP/1.1", host: "ipv6check-http.steamserver.net"
